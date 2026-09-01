@@ -27,7 +27,7 @@ begin
     for j := 1 to lado - i do
       write(c1);
 
-    writeln; { Salto a la siguiente linea }
+    writeln; 
   end;
 end;
 
@@ -44,7 +44,7 @@ begin
     for j := 1 to lado - i do
       write(c2);
 
-    writeln; { Salto a la siguiente linea }
+    writeln;
   end;
 end;
 begin
