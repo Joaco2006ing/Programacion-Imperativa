@@ -21,7 +21,7 @@ begin
   begin
     for j := 1 to ancho do
       write(c);
-    writeln; { Baja a la siguiente fila }
+    writeln; 
   end;
 end;
 begin
