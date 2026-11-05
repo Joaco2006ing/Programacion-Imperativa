@@ -62,7 +62,7 @@ begin
 
       factor := factor + 1;
     end;
-
+h
     writeln;
     read(num);
   end;
